@@ -33,7 +33,8 @@ nav{
     justify-content. space-between;
     align-items: center;
     text-transform: uppercase;
-    front-size: 1.6 rem;
+    font-size: 1.6 rem;
+    background-color: blue;
 }
 
 .brand{
@@ -58,7 +59,8 @@ nav ul li a{
     margin: 0 3rem;
     position: relative;
     letter-spacing: 2px;
-    
+}
+
     
     
     
