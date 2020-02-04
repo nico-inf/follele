@@ -33,7 +33,7 @@ ul li a:hover{
 img{
 width: 100%;
 height: auto;
-center,no-repeat;
+background-repeat: no-repeat, repeat;
 }
     
     
