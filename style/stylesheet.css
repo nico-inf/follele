@@ -29,7 +29,11 @@ ul li a{
 ul li a:hover{
     background-color: green;
 }
-    
+
+img{
+width: 100%;
+height: auto;
+}
     
     
     
